@@ -1,0 +1,15 @@
+<section class="term container large">
+    {{#if profile_image}}
+        <div class="term-image-container u-placeholder">
+            <a href="{{url}}">
+                <img class="term-image u-object-fit" src={{img_url profile_image size="xs"}} alt="{{name}}">
+            </a>
+        </div>
+    {{/if}}
+    <div class="term-wrapper">
+        <a href="{{url}}">
+            <h1 class="term-name">{{name}}</h1>
+        </a>
+        <div class="term-description">{{bio}}</div>
+    </div>
+</section>
