@@ -1,6 +1,6 @@
 {
-    "name": "alto",
-    "description": "A Ghost theme",
+    "name": "politcast-alto",
+    "description": "Based on Alto Ghost theme",
     "version": "1.0.0",
     "engines": {
         "ghost": ">=4.0.0",
@@ -8,9 +8,9 @@
     },
     "license": "MIT",
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Daniel Aschwanden, Politcast Uri",
+        "email": "daniel.aschwanden@politcast-uri.ch",
+        "url": "https://www.politcast-uri.ch"
     },
     "keywords": [
         "ghost",
