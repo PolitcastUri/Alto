@@ -61,7 +61,7 @@
         "gulp-zip": "6.0.0",
         "postcss": "8.4.45",
         "postcss-easy-import": "4.0.0",
-        "pump": "3.0.0",
+        "pump": "3.0.1",
         "stylelint": "16.9.0",
         "stylelint-config-standard": "36.0.1",
         "stylelint-order": "6.0.4"
